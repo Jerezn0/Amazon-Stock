@@ -60,7 +60,10 @@ Pandas
 Matplotlib
 Seaborn
 Scikit-learn
-Herramientas: Jupyter Notebook.
+
+#### Herramienta
+
+Jupyter Notebook.
 
 ### Conjunto de Datos
 Fuente: (Kaggle.com)
